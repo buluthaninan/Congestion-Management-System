@@ -9,8 +9,13 @@ User will see the congestion in the road with its color<br>
 These colors are red, blue, yellow stands for high, medium and low in order.<br>
 
 Technologies Used:<br>
-Java
-
+Java <br>
+Patterns Used: <br>
+-Abstract Factory<br>
+-Adapter<br>
+-Iterator<br>
+-Observer<br>
+-Visitor<br>
 ![First-Screen](https://user-images.githubusercontent.com/61562488/127165925-e19d1103-e882-4ff8-8790-d0124e079f58.png)
 ![Last-Screen](https://user-images.githubusercontent.com/61562488/127165932-caafbd83-37d9-4e7a-9b33-d33776ccde7a.png)
 
