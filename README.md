@@ -2,7 +2,7 @@
 Shortest Path Finder With Dijkstra's Algorithm
 
 It is a simulation of a real system.<br>
-User can either give his/her location to app via version1 or version2.<br>
+User can either give his/her location to app via Version1 or Version 2.<br>
 Both versions calculate the distance with Dijkstra's Algorithm.<br>
 User can select your destination.<br>
 User will see the congestion in the road with its color<br>
